@@ -1,0 +1,18 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="schemas.android.com/tools"
+    tools:context="cn.a6_79.message.ContactActivity"
+    xmlns:PdfJS="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/add"
+        android:title="添加"
+        PdfJS:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_done"
+        android:icon="@drawable/done"
+        android:title="完成"
+        PdfJS:showAsAction="always" />
+</menu>

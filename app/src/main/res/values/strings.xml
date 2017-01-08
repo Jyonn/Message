@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">听说</string>
+    <string name="login">登录</string>
+    <string name="input_username">请输入用户名</string>
+    <string name="input_password">请输入密码</string>
+    <string name="remaining">剩余发送条数：</string>
+    <string name="input_phone">请输入手机号</string>
+    <string name="input_message">消息内容</string>
+    <string name="send_ok">发送</string>
+
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+    <string name="hour">时</string>
+    <string name="minute">分</string>
+    <string name="second">秒</string>
+    <string name="name">姓名：</string>
+    <string name="phone_number">手机：</string>
+    <string name="email_id">邮箱：</string>
+    <string name="save_button">保存</string>
+    <string name="set_send_time">设置发送时间</string>
+    <!--<string name="delete_button">删除</string>-->
+</resources>
